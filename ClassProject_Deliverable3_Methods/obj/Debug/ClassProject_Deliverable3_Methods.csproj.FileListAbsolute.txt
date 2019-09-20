@@ -1,0 +1,7 @@
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\bin\Debug\ClassProject_Deliverable3_Methods.exe.config
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\bin\Debug\ClassProject_Deliverable3_Methods.exe
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\bin\Debug\ClassProject_Deliverable3_Methods.pdb
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\obj\Debug\ClassProject_Deliverable3_Methods.csprojAssemblyReference.cache
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\obj\Debug\ClassProject_Deliverable3_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\obj\Debug\ClassProject_Deliverable3_Methods.exe
+C:\Users\Joseph\source\repos\ClassProject_Deliverable3_Methods\obj\Debug\ClassProject_Deliverable3_Methods.pdb
